@@ -1,16 +1,21 @@
 # responsive_dashboard_v0
 
 Proyecto que diseña un dashboard responsive
+#1.
+Este proyecto desarrolla un dashboard responsive que se despelgara en diferentes dispositivos: Moviles
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/101723518/197042337-36d89987-0bfe-4e6c-bbdd-777f2ef1cbf8.png)
+![image](https://user-images.githubusercontent.com/101723518/197042420-37902e7e-29cd-47e8-b264-06c9f05f125e.png)
 
-This project is a starting point for a Flutter application.
+#2.
+Este proyecto desarrolla un dashboard responsive que se despelgara en diferentes dispositivos: Tablets
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/101723518/197042710-98f1cd72-7c56-4962-a65b-d30da5ab6852.png)
+![image](https://user-images.githubusercontent.com/101723518/197042781-73bc0f30-433a-4ada-80fb-817d93ca49ea.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#3. 
+Este proyecto desarrolla un dashboard responsive que se despelgara en diferentes dispositivos: Computadoras
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/101723518/197042942-8dbe3f2e-5443-4b00-8e03-190eb8335aae.png)
+
+#GRACIAS POR SU ATENCIÓN
